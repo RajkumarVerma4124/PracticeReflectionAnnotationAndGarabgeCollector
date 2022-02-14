@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyzerProgram", "MoodAnalyzerProgram\MoodAnalyzerProgram.csproj", "{804B89A9-4BF6-493E-B983-988CCA83221B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnaLyzerTesting", "MoodAnaLyzerTesting\MoodAnaLyzerTesting.csproj", "{B0973F6A-02B2-41A7-A30B-643E6F2646E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnotationProgram", "AnnotationProgram\AnnotationProgram.csproj", "{A6ABDEF8-202F-4BC5-9219-1E2129D84AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectorProgram", "GarbageCollectorProgram\GarbageCollectorProgram.csproj", "{613A2226-6C3F-47A0-AE29-98A67115F8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804B89A9-4BF6-493E-B983-988CCA83221B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804B89A9-4BF6-493E-B983-988CCA83221B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804B89A9-4BF6-493E-B983-988CCA83221B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804B89A9-4BF6-493E-B983-988CCA83221B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0973F6A-02B2-41A7-A30B-643E6F2646E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0973F6A-02B2-41A7-A30B-643E6F2646E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0973F6A-02B2-41A7-A30B-643E6F2646E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0973F6A-02B2-41A7-A30B-643E6F2646E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6ABDEF8-202F-4BC5-9219-1E2129D84AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ABDEF8-202F-4BC5-9219-1E2129D84AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ABDEF8-202F-4BC5-9219-1E2129D84AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ABDEF8-202F-4BC5-9219-1E2129D84AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613A2226-6C3F-47A0-AE29-98A67115F8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613A2226-6C3F-47A0-AE29-98A67115F8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613A2226-6C3F-47A0-AE29-98A67115F8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613A2226-6C3F-47A0-AE29-98A67115F8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F8DA7B-C22A-4B59-9EA2-65A221EA7E1F}
+	EndGlobalSection
+EndGlobal
